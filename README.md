@@ -1,4 +1,6 @@
 # TITANIC DATASET EDA
+<img src="https://github.com/user-attachments/assets/be8a2451-cce6-45c5-b3f1-cf91b7ab0450" alt="Image Description">
+
 <h2>Overview</h2>
 <h3>This repository contains the Titanic dataset's exploratory data analysis (EDA). The dataset is sourced from Kaggle and includes information on the passengers and crew members of the RMS Titanic, including their demographic characteristics, travel details, and survival status.</h3>
 <h2>Dataset Description</h2>
@@ -24,5 +26,4 @@
 <ol>Females were more likely to survive than males.</ol>
 <ol>Passengers who boarded at Southampton were more likely to survive than those who boarded at other ports.</ol>
 <ol>Passengers between the age of 25 - 30 were more likely to survive</ol>
-
 <a href ="https://x.com/gheedhion"> Follow on X </a>
