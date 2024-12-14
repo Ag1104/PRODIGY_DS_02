@@ -23,5 +23,6 @@
 <ol>Passenger class significantly impacted survival rates, with first-class passengers being more likely to survive.</ol>
 <ol>Females were more likely to survive than males.</ol>
 <ol>Passengers who boarded at Southampton were more likely to survive than those who boarded at other ports.</ol>
+<ol>Passengers between the age of 25 - 30 were more likely to survive</ol>
 
 <a href ="https://x.com/gheedhion"> Follow on X </a>
