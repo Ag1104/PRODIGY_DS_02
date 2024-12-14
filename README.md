@@ -1,5 +1,11 @@
-# TITANIC DATASET EDA
-<img src="https://github.com/user-attachments/assets/be8a2451-cce6-45c5-b3f1-cf91b7ab0450" alt="Image Description">
+<header>
+  <a href="EDA on Titanic Dataset.py">EDA</a><br>
+  <a href="README.md"> ReadME </a><br>
+  <a href="train.csv"> Train File </a><br>
+</header>
+    
+<h1>TITANIC DATASET EDA</h1>
+<!-- <img src="https://github.com/user-attachments/assets/be8a2451-cce6-45c5-b3f1-cf91b7ab0450" alt="Image Description"> -->
 
 <h2>Overview</h2>
 <h3>This repository contains the Titanic dataset's exploratory data analysis (EDA). The dataset is sourced from Kaggle and includes information on the passengers and crew members of the RMS Titanic, including their demographic characteristics, travel details, and survival status.</h3>
